@@ -1102,3 +1102,209 @@ TypeError: string indices must be integers, not 'str'
 2024-10-17 15:54:33,193 - INFO -  * Debugger PIN: 112-912-416
 2024-10-17 15:55:01,808 - INFO - Acceess Index from 127.0.0.1, User: einstein
 2024-10-17 15:55:01,818 - INFO - 127.0.0.1 - - [17/Oct/2024 15:55:01] "GET /index HTTP/1.1" 200 -
+2024-10-17 15:56:50,325 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-17 15:56:50,341 - INFO - 127.0.0.1 - - [17/Oct/2024 15:56:50] "GET /index HTTP/1.1" 200 -
+2024-10-17 15:57:15,605 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-17 15:57:15,605 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-17 15:57:15,605 - INFO -  * Restarting with stat
+2024-10-17 15:57:15,725 - WARNING -  * Debugger is active!
+2024-10-17 15:57:15,729 - INFO -  * Debugger PIN: 112-912-416
+2024-10-17 15:57:22,319 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-17 15:57:22,329 - INFO - 127.0.0.1 - - [17/Oct/2024 15:57:22] "GET /index HTTP/1.1" 200 -
+2024-10-17 16:11:10,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-17 16:11:10,662 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-17 16:11:10,663 - INFO -  * Restarting with stat
+2024-10-17 16:11:10,782 - WARNING -  * Debugger is active!
+2024-10-17 16:11:10,788 - INFO -  * Debugger PIN: 112-912-416
+2024-10-17 16:11:17,602 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-17 16:11:17,615 - INFO - 127.0.0.1 - - [17/Oct/2024 16:11:17] "GET /index HTTP/1.1" 200 -
+2024-10-17 16:25:56,113 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-17 16:25:56,113 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-17 16:25:56,114 - INFO -  * Restarting with stat
+2024-10-17 16:25:56,233 - WARNING -  * Debugger is active!
+2024-10-17 16:25:56,237 - INFO -  * Debugger PIN: 112-912-416
+2024-10-17 16:25:57,303 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-17 16:25:57,325 - INFO - 127.0.0.1 - - [17/Oct/2024 16:25:57] "GET /index HTTP/1.1" 200 -
+2024-10-17 16:48:05,950 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-17 16:48:05,950 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-17 16:48:05,951 - INFO -  * Restarting with stat
+2024-10-17 16:48:06,069 - WARNING -  * Debugger is active!
+2024-10-17 16:48:06,076 - INFO -  * Debugger PIN: 112-912-416
+2024-10-21 17:45:15,501 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-21 17:45:15,501 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-21 17:45:15,502 - INFO -  * Restarting with stat
+2024-10-21 17:45:15,635 - WARNING -  * Debugger is active!
+2024-10-21 17:45:15,640 - INFO -  * Debugger PIN: 112-912-416
+2024-10-21 17:45:16,636 - INFO - Acceess Index from 127.0.0.1, User: Unknown
+2024-10-21 17:45:16,643 - INFO - 127.0.0.1 - - [21/Oct/2024 17:45:16] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:45:17,474 - INFO - 127.0.0.1 - - [21/Oct/2024 17:45:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-21 17:45:18,198 - INFO - Acceess Login from 127.0.0.1, User: Unknown
+2024-10-21 17:45:18,201 - INFO - 127.0.0.1 - - [21/Oct/2024 17:45:18] "GET /login HTTP/1.1" 200 -
+2024-10-21 17:45:23,203 - INFO - Start ldap
+2024-10-21 17:45:23,343 - INFO - End ldap
+2024-10-21 17:45:23,346 - INFO - 127.0.0.1 - - [21/Oct/2024 17:45:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-21 17:45:23,355 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:45:23,356 - INFO - 127.0.0.1 - - [21/Oct/2024 17:45:23] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:46:57,172 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:46:57,177 - INFO - 127.0.0.1 - - [21/Oct/2024 17:46:57] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:47:37,686 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:47:37,691 - INFO - 127.0.0.1 - - [21/Oct/2024 17:47:37] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:48:33,474 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:48:33,480 - INFO - 127.0.0.1 - - [21/Oct/2024 17:48:33] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:48:34,411 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:48:34,412 - INFO - 127.0.0.1 - - [21/Oct/2024 17:48:34] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:48:55,019 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:48:55,020 - INFO - 127.0.0.1 - - [21/Oct/2024 17:48:55] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:48:55,667 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:48:55,667 - INFO - 127.0.0.1 - - [21/Oct/2024 17:48:55] "GET /index HTTP/1.1" 200 -
+2024-10-21 17:51:00,732 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 17:51:00,735 - INFO - 127.0.0.1 - - [21/Oct/2024 17:51:00] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:02:14,780 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:02:14,789 - INFO - 127.0.0.1 - - [21/Oct/2024 18:02:14] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:02:18,313 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:02:18,314 - INFO - 127.0.0.1 - - [21/Oct/2024 18:02:18] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:02:18,836 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:02:18,837 - INFO - 127.0.0.1 - - [21/Oct/2024 18:02:18] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:02:21,024 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:02:21,025 - INFO - 127.0.0.1 - - [21/Oct/2024 18:02:21] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:29,241 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:29,244 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:29] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:31,054 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:31,054 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:31] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:31,410 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:31,411 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:31] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:55,728 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:55,729 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:55] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:56,209 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:56,210 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:56] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:10:56,391 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:10:56,392 - INFO - 127.0.0.1 - - [21/Oct/2024 18:10:56] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:13:21,724 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:13:21,735 - INFO - 127.0.0.1 - - [21/Oct/2024 18:13:21] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:13:22,438 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:13:22,439 - INFO - 127.0.0.1 - - [21/Oct/2024 18:13:22] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:13:22,759 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:13:22,760 - INFO - 127.0.0.1 - - [21/Oct/2024 18:13:22] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:13:23,192 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:13:23,193 - INFO - 127.0.0.1 - - [21/Oct/2024 18:13:23] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:27:46,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-21 18:27:46,349 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-21 18:27:46,351 - INFO -  * Restarting with stat
+2024-10-21 18:27:46,494 - WARNING -  * Debugger is active!
+2024-10-21 18:27:46,500 - INFO -  * Debugger PIN: 112-912-416
+2024-10-21 18:27:48,180 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:27:48,191 - INFO - 127.0.0.1 - - [21/Oct/2024 18:27:48] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:28:24,184 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:28:24,191 - INFO - 127.0.0.1 - - [21/Oct/2024 18:28:24] "GET /index HTTP/1.1" 200 -
+2024-10-21 18:28:26,946 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 18:28:26,946 - INFO - 127.0.0.1 - - [21/Oct/2024 18:28:26] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:35:36,484 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:35:36,486 - INFO - 127.0.0.1 - - [21/Oct/2024 20:35:36] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:36:29,262 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:36:29,271 - INFO - 127.0.0.1 - - [21/Oct/2024 20:36:29] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:36:41,730 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:36:41,737 - INFO - 127.0.0.1 - - [21/Oct/2024 20:36:41] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:36:56,824 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:36:56,833 - INFO - 127.0.0.1 - - [21/Oct/2024 20:36:56] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:38:09,310 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:38:09,311 - INFO - 127.0.0.1 - - [21/Oct/2024 20:38:09] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:38:34,857 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:38:34,859 - INFO - 127.0.0.1 - - [21/Oct/2024 20:38:34] "GET /index HTTP/1.1" 200 -
+2024-10-21 20:38:39,853 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-21 20:38:39,854 - INFO - 127.0.0.1 - - [21/Oct/2024 20:38:39] "GET /index HTTP/1.1" 200 -
+2024-10-22 09:20:57,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-22 09:20:57,123 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-22 09:20:57,124 - INFO -  * Restarting with stat
+2024-10-22 09:20:57,250 - WARNING -  * Debugger is active!
+2024-10-22 09:20:57,255 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 09:20:57,630 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-22 09:20:57,642 - INFO - 127.0.0.1 - - [22/Oct/2024 09:20:57] "GET /index HTTP/1.1" 200 -
+2024-10-22 09:21:00,709 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-22 09:21:00,710 - INFO - 127.0.0.1 - - [22/Oct/2024 09:21:00] "GET /index HTTP/1.1" 200 -
+2024-10-22 09:21:04,307 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-22 09:21:04,309 - INFO - 127.0.0.1 - - [22/Oct/2024 09:21:04] "GET /index HTTP/1.1" 200 -
+2024-10-22 09:21:37,061 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-22 09:21:37,062 - INFO - 127.0.0.1 - - [22/Oct/2024 09:21:37] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:29:11,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-22 15:29:11,415 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-22 15:29:11,416 - INFO -  * Restarting with stat
+2024-10-22 15:29:11,586 - WARNING -  * Debugger is active!
+2024-10-22 15:29:11,591 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 15:29:14,760 - INFO - Acceess Index from 127.0.0.1, User: Unknown
+2024-10-22 15:29:14,768 - INFO - 127.0.0.1 - - [22/Oct/2024 15:29:14] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:29:15,394 - INFO - 127.0.0.1 - - [22/Oct/2024 15:29:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-22 15:29:20,641 - INFO - Acceess Login from 127.0.0.1, User: Unknown
+2024-10-22 15:29:20,645 - INFO - 127.0.0.1 - - [22/Oct/2024 15:29:20] "GET /login HTTP/1.1" 200 -
+2024-10-22 15:29:26,494 - INFO - Start ldap
+2024-10-22 15:30:41,530 - ERROR - Error: {'result': -1, 'desc': "Can't contact LDAP server", 'errno': 57, 'ctrls': [], 'info': 'Socket is not connected'}
+2024-10-22 15:30:41,530 - INFO - End ldap
+2024-10-22 15:30:41,531 - INFO - Acceess Login from 127.0.0.1, User: Unknown
+2024-10-22 15:30:41,534 - INFO - 127.0.0.1 - - [22/Oct/2024 15:30:41] "POST /login HTTP/1.1" 200 -
+2024-10-22 15:30:51,065 - INFO - Start ldap
+2024-10-22 15:30:56,620 - INFO - Start ldap
+2024-10-22 15:31:31,037 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/LDAP_Test.py', reloading
+2024-10-22 15:31:31,082 - INFO -  * Restarting with stat
+2024-10-22 15:31:31,353 - WARNING -  * Debugger is active!
+2024-10-22 15:31:31,359 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 15:31:34,615 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-22 15:31:34,625 - INFO - Acceess Index from 127.0.0.1, User: newton
+2024-10-22 15:31:34,631 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:34] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:31:41,848 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/LDAP_Test.py', reloading
+2024-10-22 15:31:41,876 - INFO -  * Restarting with stat
+2024-10-22 15:31:42,044 - WARNING -  * Debugger is active!
+2024-10-22 15:31:42,049 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 15:31:43,323 - INFO - Acceess Index from 127.0.0.1, User: newton
+2024-10-22 15:31:43,332 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:43] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:31:44,973 - INFO - Acceess Logout from 127.0.0.1, User: Unknown
+2024-10-22 15:31:44,973 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-10-22 15:31:44,978 - INFO - Acceess Index from 127.0.0.1, User: Unknown
+2024-10-22 15:31:44,978 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:44] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:31:46,167 - INFO - Acceess Login from 127.0.0.1, User: Unknown
+2024-10-22 15:31:46,171 - INFO - 127.0.0.1 - - [22/Oct/2024 15:31:46] "GET /login HTTP/1.1" 200 -
+2024-10-22 15:31:51,487 - INFO - Start ldap
+2024-10-22 15:31:51,670 - INFO - Start ldap
+2024-10-22 15:32:02,988 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/LDAP_Test.py', reloading
+2024-10-22 15:32:03,021 - INFO -  * Restarting with stat
+2024-10-22 15:32:03,246 - WARNING -  * Debugger is active!
+2024-10-22 15:32:03,253 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 15:32:05,576 - INFO - 127.0.0.1 - - [22/Oct/2024 15:32:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-22 15:32:05,581 - INFO - Acceess Index from 127.0.0.1, User: newton
+2024-10-22 15:32:05,588 - INFO - 127.0.0.1 - - [22/Oct/2024 15:32:05] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:32:11,627 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/LDAP_Test.py', reloading
+2024-10-22 15:32:11,662 - INFO -  * Restarting with stat
+2024-10-22 15:32:11,828 - WARNING -  * Debugger is active!
+2024-10-22 15:32:11,832 - INFO -  * Debugger PIN: 112-912-416
+2024-10-22 15:32:25,738 - INFO - Acceess Index from 127.0.0.1, User: newton
+2024-10-22 15:32:25,748 - INFO - 127.0.0.1 - - [22/Oct/2024 15:32:25] "GET /index HTTP/1.1" 200 -
+2024-10-22 15:40:53,786 - INFO - Acceess Index from 127.0.0.1, User: newton
+2024-10-22 15:40:53,787 - INFO - 127.0.0.1 - - [22/Oct/2024 15:40:53] "GET /index HTTP/1.1" 200 -
+2024-10-24 15:50:44,337 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-24 15:50:44,338 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-24 15:50:44,338 - INFO -  * Restarting with stat
+2024-10-24 15:50:44,563 - WARNING -  * Debugger is active!
+2024-10-24 15:50:44,570 - INFO -  * Debugger PIN: 112-912-416
+2024-10-24 15:50:46,482 - INFO - Acceess Index from 127.0.0.1, User: Unknown
+2024-10-24 15:50:46,491 - INFO - 127.0.0.1 - - [24/Oct/2024 15:50:46] "GET /index HTTP/1.1" 200 -
+2024-10-24 15:50:47,793 - INFO - 127.0.0.1 - - [24/Oct/2024 15:50:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-24 15:50:48,020 - INFO - Acceess Login from 127.0.0.1, User: Unknown
+2024-10-24 15:50:48,024 - INFO - 127.0.0.1 - - [24/Oct/2024 15:50:48] "GET /login HTTP/1.1" 200 -
+2024-10-24 15:50:52,585 - INFO - Start ldap
+2024-10-24 15:50:52,825 - INFO - End ldap
+2024-10-24 15:50:52,827 - INFO - 127.0.0.1 - - [24/Oct/2024 15:50:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-10-24 15:50:52,832 - INFO - Acceess Index from 127.0.0.1, User: einstein
+2024-10-24 15:50:52,833 - INFO - 127.0.0.1 - - [24/Oct/2024 15:50:52] "GET /index HTTP/1.1" 200 -
+2024-10-24 15:54:45,114 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/config.py', reloading
+2024-10-24 15:54:45,162 - INFO -  * Restarting with stat
+2024-10-24 15:54:45,391 - WARNING -  * Debugger is active!
+2024-10-24 15:54:45,399 - INFO -  * Debugger PIN: 112-912-416
+2024-10-24 17:07:50,897 - INFO -  * Detected change in '/Users/rileynoggle/Documents/CATUITeam/UI-Team---CAT-1/auth.py', reloading
+2024-10-24 17:07:50,937 - INFO -  * Restarting with stat

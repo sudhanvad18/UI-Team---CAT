@@ -1,3 +1,4 @@
 #! /bin/bash
-flask --app . run --debug
 ./openpage
+brew services start grafana
+flask --app . run --debug
